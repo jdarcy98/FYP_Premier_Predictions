@@ -1,0 +1,9 @@
+{% extends "league/base.html" %}
+{% block content %}
+	{% for match in fixtures %}
+		<h1>{{ match.home_team }} {{ match.away_team }}</h1>
+		<h2>{{ match.date_time }}</h2>
+		<h3>{{ match.location }}</h3>
+
+	{% endfor %}
+{% endblock content %}

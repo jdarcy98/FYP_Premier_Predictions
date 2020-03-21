@@ -1,9 +1,0 @@
-{% extends "league/base.html" %}
-{% block content %}
-<h1><img src="static/images/premlogo.jpg" width="50" length="50" >	Premier League Table:</h1>
-<br>
-<br>
-	{% for club in table %}
-		<h3>{{ club.position }}. {{ club.logo }}		{{ club.team }}		{{club.gd}}		{{club.points}}</h3>
-	{% endfor %}
-{% endblock content %}

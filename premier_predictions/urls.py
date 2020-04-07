@@ -33,6 +33,7 @@ urlpatterns = [
     path('reset_password_complete/', auth_views.PasswordResetCompleteView.as_view(template_name='users/reset-password-complete.html'), name='password_reset_complete'),
     path('profile/', user_views.profile, name='profile'),
     path('play/', user_views.predict, name='play-now'),
+    path('play/predictor/', user_views.predictor, name='predictor')
 ]
 
 if settings.DEBUG:

@@ -1,0 +1,191 @@
+,Date,HomeTeam,AwayTeam,MW,PRED
+0,29/12/2018,Brighton,Everton,20,A
+1,29/12/2018,Fulham,Huddersfield,20,A
+2,29/12/2018,Leicester,Cardiff,20,H
+3,29/12/2018,Liverpool,Arsenal,20,H
+4,29/12/2018,Tottenham,Wolves,20,H
+5,29/12/2018,Watford,Newcastle,20,H
+6,30/12/2018,Burnley,West Ham,20,H
+7,30/12/2018,Crystal Palace,Chelsea,20,A
+8,30/12/2018,Man United,Bournemouth,20,H
+9,30/12/2018,Southampton,Man City,20,A
+10,01/01/2019,Arsenal,Fulham,21,H
+11,01/01/2019,Cardiff,Tottenham,21,A
+12,01/01/2019,Everton,Leicester,21,H
+13,02/01/2019,Bournemouth,Watford,21,H
+14,02/01/2019,Chelsea,Southampton,21,H
+15,02/01/2019,Huddersfield,Burnley,21,A
+16,02/01/2019,Newcastle,Man United,21,A
+17,02/01/2019,West Ham,Brighton,21,H
+18,02/01/2019,Wolves,Crystal Palace,21,H
+19,03/01/2019,Man City,Liverpool,21,H
+20,12/01/2019,Brighton,Liverpool,22,A
+21,12/01/2019,Burnley,Fulham,22,H
+22,12/01/2019,Cardiff,Huddersfield,22,H
+23,12/01/2019,Chelsea,Newcastle,22,H
+24,12/01/2019,Crystal Palace,Watford,22,H
+25,12/01/2019,Leicester,Southampton,22,H
+26,12/01/2019,West Ham,Arsenal,22,A
+27,13/01/2019,Everton,Bournemouth,22,H
+28,13/01/2019,Tottenham,Man United,22,H
+29,14/01/2019,Man City,Wolves,22,H
+30,19/01/2019,Arsenal,Chelsea,23,H
+31,19/01/2019,Bournemouth,West Ham,23,H
+32,19/01/2019,Liverpool,Crystal Palace,23,H
+33,19/01/2019,Man United,Brighton,23,H
+34,19/01/2019,Newcastle,Cardiff,23,H
+35,19/01/2019,Southampton,Everton,23,H
+36,19/01/2019,Watford,Burnley,23,H
+37,19/01/2019,Wolves,Leicester,23,H
+38,20/01/2019,Fulham,Tottenham,23,A
+39,20/01/2019,Huddersfield,Man City,23,A
+40,29/01/2019,Arsenal,Cardiff,24,H
+41,29/01/2019,Fulham,Brighton,24,H
+42,29/01/2019,Huddersfield,Everton,24,A
+43,29/01/2019,Man United,Burnley,24,H
+44,29/01/2019,Newcastle,Man City,24,A
+45,29/01/2019,Wolves,West Ham,24,H
+46,30/01/2019,Bournemouth,Chelsea,24,H
+47,30/01/2019,Liverpool,Leicester,24,H
+48,30/01/2019,Southampton,Crystal Palace,24,A
+49,30/01/2019,Tottenham,Watford,24,H
+50,02/02/2019,Brighton,Watford,25,H
+51,02/02/2019,Burnley,Southampton,25,H
+52,02/02/2019,Cardiff,Bournemouth,25,A
+53,02/02/2019,Chelsea,Huddersfield,25,H
+54,02/02/2019,Crystal Palace,Fulham,25,H
+55,02/02/2019,Everton,Wolves,25,H
+56,02/02/2019,Tottenham,Newcastle,25,H
+57,03/02/2019,Leicester,Man United,25,H
+58,03/02/2019,Man City,Arsenal,25,H
+59,04/02/2019,West Ham,Liverpool,25,A
+60,06/02/2019,Everton,Man City,26,A
+61,09/02/2019,Brighton,Burnley,26,H
+62,09/02/2019,Crystal Palace,West Ham,26,H
+63,09/02/2019,Fulham,Man United,26,A
+64,09/02/2019,Huddersfield,Arsenal,26,A
+65,09/02/2019,Liverpool,Bournemouth,26,H
+66,09/02/2019,Southampton,Cardiff,26,A
+67,09/02/2019,Watford,Everton,26,H
+68,10/02/2019,Man City,Chelsea,26,H
+69,10/02/2019,Tottenham,Leicester,26,H
+70,11/02/2019,Wolves,Newcastle,27,H
+71,22/02/2019,Cardiff,Watford,27,H
+72,22/02/2019,West Ham,Fulham,27,H
+73,23/02/2019,Bournemouth,Wolves,27,H
+74,23/02/2019,Burnley,Tottenham,27,A
+75,23/02/2019,Leicester,Crystal Palace,27,H
+76,23/02/2019,Newcastle,Huddersfield,27,H
+77,24/02/2019,Arsenal,Southampton,27,H
+78,24/02/2019,Man United,Liverpool,27,D
+79,26/02/2019,Cardiff,Everton,27,A
+80,26/02/2019,Huddersfield,Wolves,28,A
+81,26/02/2019,Leicester,Brighton,28,H
+82,26/02/2019,Newcastle,Burnley,28,H
+83,27/02/2019,Arsenal,Bournemouth,28,H
+84,27/02/2019,Chelsea,Tottenham,28,D
+85,27/02/2019,Crystal Palace,Man United,28,A
+86,27/02/2019,Liverpool,Watford,28,H
+87,27/02/2019,Man City,West Ham,28,H
+88,27/02/2019,Southampton,Fulham,28,H
+89,02/03/2019,Bournemouth,Man City,28,A
+90,02/03/2019,Brighton,Huddersfield,29,H
+91,02/03/2019,Burnley,Crystal Palace,29,H
+92,02/03/2019,Man United,Southampton,29,H
+93,02/03/2019,Tottenham,Arsenal,29,H
+94,02/03/2019,West Ham,Newcastle,29,H
+95,02/03/2019,Wolves,Cardiff,29,H
+96,03/03/2019,Everton,Liverpool,29,A
+97,03/03/2019,Fulham,Chelsea,29,A
+98,03/03/2019,Watford,Leicester,29,H
+99,09/03/2019,Cardiff,West Ham,29,A
+100,09/03/2019,Crystal Palace,Brighton,30,H
+101,09/03/2019,Huddersfield,Bournemouth,30,A
+102,09/03/2019,Leicester,Fulham,30,H
+103,09/03/2019,Man City,Watford,30,H
+104,09/03/2019,Newcastle,Everton,30,H
+105,09/03/2019,Southampton,Tottenham,30,A
+106,10/03/2019,Arsenal,Man United,30,H
+107,10/03/2019,Chelsea,Wolves,30,H
+108,10/03/2019,Liverpool,Burnley,30,H
+109,16/03/2019,Bournemouth,Newcastle,30,D
+110,16/03/2019,Burnley,Leicester,31,H
+111,16/03/2019,West Ham,Huddersfield,31,H
+112,17/03/2019,Everton,Chelsea,31,D
+113,17/03/2019,Fulham,Liverpool,31,A
+114,30/03/2019,Brighton,Southampton,31,H
+115,30/03/2019,Burnley,Wolves,31,H
+116,30/03/2019,Crystal Palace,Huddersfield,31,H
+117,30/03/2019,Fulham,Man City,31,A
+118,30/03/2019,Leicester,Bournemouth,31,H
+119,30/03/2019,Man United,Watford,31,H
+120,30/03/2019,West Ham,Everton,32,A
+121,31/03/2019,Cardiff,Chelsea,32,A
+122,31/03/2019,Liverpool,Tottenham,32,H
+123,01/04/2019,Arsenal,Newcastle,32,H
+124,02/04/2019,Watford,Fulham,32,H
+125,02/04/2019,Wolves,Man United,32,A
+126,03/04/2019,Chelsea,Brighton,32,H
+127,03/04/2019,Man City,Cardiff,32,H
+128,03/04/2019,Tottenham,Crystal Palace,32,H
+129,05/04/2019,Southampton,Liverpool,32,A
+130,06/04/2019,Bournemouth,Burnley,33,H
+131,06/04/2019,Huddersfield,Leicester,33,A
+132,06/04/2019,Newcastle,Crystal Palace,33,H
+133,07/04/2019,Everton,Arsenal,33,D
+134,08/04/2019,Chelsea,West Ham,33,H
+135,12/04/2019,Leicester,Newcastle,33,H
+136,13/04/2019,Brighton,Bournemouth,33,H
+137,13/04/2019,Burnley,Cardiff,33,H
+138,13/04/2019,Fulham,Everton,33,A
+139,13/04/2019,Man United,West Ham,33,H
+140,13/04/2019,Southampton,Wolves,34,H
+141,13/04/2019,Tottenham,Huddersfield,34,H
+142,14/04/2019,Crystal Palace,Man City,34,A
+143,14/04/2019,Liverpool,Chelsea,34,D
+144,15/04/2019,Watford,Arsenal,34,A
+145,16/04/2019,Brighton,Cardiff,34,H
+146,20/04/2019,Bournemouth,Fulham,34,H
+147,20/04/2019,Huddersfield,Watford,34,D
+148,20/04/2019,Man City,Tottenham,34,D
+149,20/04/2019,Newcastle,Southampton,34,H
+150,20/04/2019,West Ham,Leicester,35,H
+151,20/04/2019,Wolves,Brighton,35,H
+152,21/04/2019,Arsenal,Crystal Palace,35,H
+153,21/04/2019,Cardiff,Liverpool,35,A
+154,21/04/2019,Everton,Man United,35,A
+155,22/04/2019,Chelsea,Burnley,35,H
+156,23/04/2019,Tottenham,Brighton,35,H
+157,23/04/2019,Watford,Southampton,35,H
+158,24/04/2019,Man United,Man City,35,A
+159,24/04/2019,Wolves,Arsenal,35,A
+160,26/04/2019,Liverpool,Huddersfield,36,H
+161,27/04/2019,Brighton,Newcastle,36,D
+162,27/04/2019,Crystal Palace,Everton,36,D
+163,27/04/2019,Fulham,Cardiff,36,D
+164,27/04/2019,Southampton,Bournemouth,36,D
+165,27/04/2019,Tottenham,West Ham,36,H
+166,27/04/2019,Watford,Wolves,36,H
+167,28/04/2019,Burnley,Man City,36,A
+168,28/04/2019,Leicester,Arsenal,36,D
+169,28/04/2019,Man United,Chelsea,36,D
+170,03/05/2019,Everton,Burnley,37,H
+171,04/05/2019,Bournemouth,Tottenham,37,H
+172,04/05/2019,Cardiff,Crystal Palace,37,D
+173,04/05/2019,Newcastle,Liverpool,37,A
+174,04/05/2019,West Ham,Southampton,37,H
+175,04/05/2019,Wolves,Fulham,37,H
+176,05/05/2019,Arsenal,Brighton,37,H
+177,05/05/2019,Chelsea,Watford,37,H
+178,05/05/2019,Huddersfield,Man United,37,A
+179,06/05/2019,Man City,Leicester,37,H
+180,12/05/2019,Brighton,Man City,38,A
+181,12/05/2019,Burnley,Arsenal,38,A
+182,12/05/2019,Crystal Palace,Bournemouth,38,H
+183,12/05/2019,Fulham,Newcastle,38,A
+184,12/05/2019,Leicester,Chelsea,38,A
+185,12/05/2019,Liverpool,Wolves,38,H
+186,12/05/2019,Man United,Cardiff,38,H
+187,12/05/2019,Southampton,Huddersfield,38,H
+188,12/05/2019,Tottenham,Everton,38,H
+189,12/05/2019,Watford,West Ham,38,H

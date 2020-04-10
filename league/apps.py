@@ -2,4 +2,7 @@ from django.apps import AppConfig
 
 
 class LeagueConfig(AppConfig):
-    name = 'league'
+	name = 'league'
+
+	def ready(self):
+		import league.signals

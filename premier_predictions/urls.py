@@ -19,11 +19,13 @@ from django.conf.urls.static import static
 from django.contrib import admin
 from django.contrib.auth import views as auth_views
 from django.urls import path, include
+from league import views as league_views
 from users import views as user_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('register/', user_views.register, name='register'),
+    path('leaderboard/', league_views.leaderboard.as_view(template_name='league/leaderboard.html'), name='leaderboard'),
     path('login/', auth_views.LoginView.as_view(template_name='users/login.html'), name='login'),
     path('logout/', auth_views.LogoutView.as_view(template_name='users/logout.html'), name='logout'),
     path('reset_password/', auth_views.PasswordResetView.as_view(template_name='users/reset-password.html'), name='password-reset'),

@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'django_extensions',
     'django_tables2',
     'users.apps.UsersConfig',
 	'league.apps.LeagueConfig',
